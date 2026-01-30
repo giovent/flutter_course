@@ -43,22 +43,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# Ignore big files
-**/*.apk
-**/*.aab
-**/*.ipa
-**/*.xcarchive
-**/*.dSYM
-**/*.framework
-**/*.app
-**/*.xcuserstate
-**/*.xcodeproj/project.xcworkspace/
-**/*.hmap
-**/*.ipa.dSYM
-**/*.app.dSYM
-**/*.dSYM.zip
-**/*.xcarchive.zip
-**/*.symbols.zip
-**/*.map.json.zip
-**/*.flutter-plugins-dependencies
